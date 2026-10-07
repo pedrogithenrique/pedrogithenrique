@@ -1,6 +1,19 @@
-#Pedro Mendes
+# Hi, I'm Pedro Henrique
 
+Information Systems student at the Federal University of Itajubá (UNIFEI), focused on **backend development, AI, and data analytics**.
 
-Me chamo Pedro Henrique Mendes, tenho 19 anos e sou natural de Cataguases - MG. Atualemnte sou estudante de Sistemas de Informação na UNIFEI, sou apaixonado por tecnologia, programação e gestão de TI. Tenho como objetivo construir uma carreira sólida na área de tecnologia, unindo conhecimento técnico com visão estratégica e habilidades interpessoais. Busco constantemente evoluir como profissional e como pessoa, mantendo uma rotina disciplinada incluindo saúde/família/trabalho/estudo. Estou aberto a conexões, oportunidades de estágio e projetos que envolvam inovação, colaboração e crescimento mútuo.
+I'm currently working in analytics, turning data into structured reports that support decision-making, and building my backend skills in Python with APIs, databases, and modern development workflows. I'm especially interested in applying AI to real-world problems.
 
+I'm also an Innovation Agent at UNIFEI's Entrepreneurship Center (CEU), where I help organize technology and innovation events, including Techstars Startup Weekend Itajubá and the NASA Space Apps Challenge.
 
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+**Backend:** FastAPI
+**Databases:** PostgreSQL
+**Tools:** Docker, Git, GitHub Actions
+**Data:** Excel, Data Analysis, Reporting
+
+## 📫 Contact
+
+[LinkedIn](www.linkedin.com/in/pedrohenriquemendess) · [contatopedrohenriquemendes@gmail.com](mailto:seu-email@exemplo.co)
